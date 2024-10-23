@@ -35,6 +35,8 @@
 }
 .div-uns{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 50px;
 }
 .div{
@@ -43,8 +45,9 @@
     align-items: center;
 }
 .div-box1{
-    
+
 }
+
 .uns{
     width: 200px;
     /* height: 200px; */
@@ -52,5 +55,6 @@
 .uns-text{
     color: white;
 }
+
 
 
